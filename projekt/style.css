@@ -1,0 +1,30 @@
+nav {
+    background-color: grey;
+}
+
+.disabled {
+color : grey ;
+width : 50% ;
+
+
+}
+.border1 {
+border-style: solid;
+border-color: rgb(0, 0, 0);
+border-width: thin;
+
+}
+.border {
+    border-style: solid ;
+    border-color: black ;
+    border-width: thin;
+}
+.center {
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+  }
+
+  input{
+    width: 100%;
+  }
